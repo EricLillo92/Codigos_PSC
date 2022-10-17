@@ -19,4 +19,4 @@ Algoritmo Ejer1
 	Fin Si
 FinAlgoritmo
 
-//1234
+

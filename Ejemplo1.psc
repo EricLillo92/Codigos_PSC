@@ -6,7 +6,7 @@ Algoritmo Ej1
 	//La función longitud retorna la cantidad de caracteres
 	Long=Longitud(Var)
 	Escribir Long
-	
+	//Modificación 
 	Var2="Hola"
 	Var=Subcadena(Var2,3,3)
 	Escribir Var
