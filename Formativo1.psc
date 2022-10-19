@@ -1,3 +1,4 @@
+//Comentario nuevo
 Algoritmo Ejer1
 	Definir Num Como Entero
 	Definir Var Como Caracter
