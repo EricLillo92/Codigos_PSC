@@ -9,7 +9,7 @@ Algoritmo Ejer2
 	
 	Var=ConvertirATexto(Num)
 	Long=Longitud(Var)
-	
+	//Hoola
 	Para i=1 Hasta Trunc(Long/2) Con Paso 1 Hacer
 		//Si Subcadena(Var,i,i)==Subcadena(Var,(Long+1)-i,(Long+1)-i) Entonces
 			//Cont=Cont+1
