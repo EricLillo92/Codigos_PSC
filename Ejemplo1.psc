@@ -1,9 +1,10 @@
 Algoritmo Ej1
+	//La función longitud retorna la cantidad de caracteres
 	Definir Var,Var2,Var3,Var4 Como Caracter
 	Definir Long Como Entero
 	Escribir "Ingresar cadena"
 	Leer Var
-	//La función longitud retorna la cantidad de caracteres
+	
 	Long=Longitud(Var)
 	Escribir Long
 	//Modificación 
